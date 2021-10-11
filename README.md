@@ -1,6 +1,6 @@
 # Bees vs Wasps
 
-## Synopsis
+## Deep learning through Python. In this work we get a database of images of bees and wasps and learn to identify whether in the picture we see wasps or bees.
 
 Hand-curated, close-up photos of `bees`, `wasps`, and `other` insects. The challenge is primarily to distinguish bees from wasps. 
 
